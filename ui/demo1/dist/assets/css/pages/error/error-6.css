@@ -1,0 +1,729 @@
+.btn.btn-light-white {
+  color: #ffffff;
+  background-color: #ffffff;
+  border-color: transparent;
+}
+.btn.btn-light-white i {
+  color: #ffffff;
+}
+.btn.btn-light-white .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-white .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-white.dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-white:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-white:focus:not(.btn-text), .btn.btn-light-white.focus:not(.btn-text) {
+  color: #3F4254;
+  background-color: #ffffff;
+  border-color: transparent;
+}
+.btn.btn-light-white:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-white:focus:not(.btn-text) i, .btn.btn-light-white.focus:not(.btn-text) i {
+  color: #3F4254;
+}
+.btn.btn-light-white:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-white:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-white.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #3F4254;
+}
+.btn.btn-light-white:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-white:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-white.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-white:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-white:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-white.focus:not(.btn-text).dropdown-toggle:after {
+  color: #3F4254;
+}
+.btn.btn-light-white.disabled, .btn.btn-light-white:disabled {
+  color: #ffffff;
+  background-color: #ffffff;
+  border-color: transparent;
+}
+.btn.btn-light-white.disabled i, .btn.btn-light-white:disabled i {
+  color: #ffffff;
+}
+.btn.btn-light-white.disabled .svg-icon svg g [fill], .btn.btn-light-white:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-white.disabled .svg-icon svg:hover g [fill], .btn.btn-light-white:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-white.disabled.dropdown-toggle:after, .btn.btn-light-white:disabled.dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-white:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-white:not(:disabled):not(.disabled).active, .show > .btn.btn-light-white.dropdown-toggle, .show .btn.btn-light-white.btn-dropdown {
+  color: #3F4254;
+  background-color: #ffffff;
+  border-color: transparent;
+}
+.btn.btn-light-white:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-white:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-white.dropdown-toggle i, .show .btn.btn-light-white.btn-dropdown i {
+  color: #3F4254;
+}
+.btn.btn-light-white:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-white:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-white.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-white.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #3F4254;
+}
+.btn.btn-light-white:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-white:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-white.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-white.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-white:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-white:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-white.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-white.btn-dropdown.dropdown-toggle:after {
+  color: #3F4254;
+}
+.btn.btn-light-primary {
+  color: #3699FF;
+  background-color: #E1F0FF;
+  border-color: transparent;
+}
+.btn.btn-light-primary i {
+  color: #3699FF;
+}
+.btn.btn-light-primary .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #3699FF;
+}
+.btn.btn-light-primary .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-primary.dropdown-toggle:after {
+  color: #3699FF;
+}
+.btn.btn-light-primary:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-primary:focus:not(.btn-text), .btn.btn-light-primary.focus:not(.btn-text) {
+  color: #FFFFFF;
+  background-color: #3699FF;
+  border-color: transparent;
+}
+.btn.btn-light-primary:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-primary:focus:not(.btn-text) i, .btn.btn-light-primary.focus:not(.btn-text) i {
+  color: #FFFFFF;
+}
+.btn.btn-light-primary:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-primary:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-primary.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #FFFFFF;
+}
+.btn.btn-light-primary:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-primary:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-primary.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-primary:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-primary:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-primary.focus:not(.btn-text).dropdown-toggle:after {
+  color: #FFFFFF;
+}
+.btn.btn-light-primary.disabled, .btn.btn-light-primary:disabled {
+  color: #3699FF;
+  background-color: #E1F0FF;
+  border-color: transparent;
+}
+.btn.btn-light-primary.disabled i, .btn.btn-light-primary:disabled i {
+  color: #3699FF;
+}
+.btn.btn-light-primary.disabled .svg-icon svg g [fill], .btn.btn-light-primary:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #3699FF;
+}
+.btn.btn-light-primary.disabled .svg-icon svg:hover g [fill], .btn.btn-light-primary:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-primary.disabled.dropdown-toggle:after, .btn.btn-light-primary:disabled.dropdown-toggle:after {
+  color: #3699FF;
+}
+.btn.btn-light-primary:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-primary:not(:disabled):not(.disabled).active, .show > .btn.btn-light-primary.dropdown-toggle, .show .btn.btn-light-primary.btn-dropdown {
+  color: #FFFFFF;
+  background-color: #3699FF;
+  border-color: transparent;
+}
+.btn.btn-light-primary:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-primary:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-primary.dropdown-toggle i, .show .btn.btn-light-primary.btn-dropdown i {
+  color: #FFFFFF;
+}
+.btn.btn-light-primary:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-primary:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-primary.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-primary.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #FFFFFF;
+}
+.btn.btn-light-primary:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-primary:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-primary.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-primary.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-primary:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-primary:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-primary.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-primary.btn-dropdown.dropdown-toggle:after {
+  color: #FFFFFF;
+}
+.btn.btn-light-secondary {
+  color: #E4E6EF;
+  background-color: #EBEDF3;
+  border-color: transparent;
+}
+.btn.btn-light-secondary i {
+  color: #E4E6EF;
+}
+.btn.btn-light-secondary .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #E4E6EF;
+}
+.btn.btn-light-secondary .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-secondary.dropdown-toggle:after {
+  color: #E4E6EF;
+}
+.btn.btn-light-secondary:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-secondary:focus:not(.btn-text), .btn.btn-light-secondary.focus:not(.btn-text) {
+  color: #3F4254;
+  background-color: #E4E6EF;
+  border-color: transparent;
+}
+.btn.btn-light-secondary:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-secondary:focus:not(.btn-text) i, .btn.btn-light-secondary.focus:not(.btn-text) i {
+  color: #3F4254;
+}
+.btn.btn-light-secondary:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-secondary:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-secondary.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #3F4254;
+}
+.btn.btn-light-secondary:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-secondary:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-secondary.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-secondary:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-secondary:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-secondary.focus:not(.btn-text).dropdown-toggle:after {
+  color: #3F4254;
+}
+.btn.btn-light-secondary.disabled, .btn.btn-light-secondary:disabled {
+  color: #E4E6EF;
+  background-color: #EBEDF3;
+  border-color: transparent;
+}
+.btn.btn-light-secondary.disabled i, .btn.btn-light-secondary:disabled i {
+  color: #E4E6EF;
+}
+.btn.btn-light-secondary.disabled .svg-icon svg g [fill], .btn.btn-light-secondary:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #E4E6EF;
+}
+.btn.btn-light-secondary.disabled .svg-icon svg:hover g [fill], .btn.btn-light-secondary:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-secondary.disabled.dropdown-toggle:after, .btn.btn-light-secondary:disabled.dropdown-toggle:after {
+  color: #E4E6EF;
+}
+.btn.btn-light-secondary:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-secondary:not(:disabled):not(.disabled).active, .show > .btn.btn-light-secondary.dropdown-toggle, .show .btn.btn-light-secondary.btn-dropdown {
+  color: #3F4254;
+  background-color: #E4E6EF;
+  border-color: transparent;
+}
+.btn.btn-light-secondary:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-secondary:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-secondary.dropdown-toggle i, .show .btn.btn-light-secondary.btn-dropdown i {
+  color: #3F4254;
+}
+.btn.btn-light-secondary:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-secondary:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-secondary.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-secondary.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #3F4254;
+}
+.btn.btn-light-secondary:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-secondary:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-secondary.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-secondary.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-secondary:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-secondary:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-secondary.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-secondary.btn-dropdown.dropdown-toggle:after {
+  color: #3F4254;
+}
+.btn.btn-light-success {
+  color: #1BC5BD;
+  background-color: #C9F7F5;
+  border-color: transparent;
+}
+.btn.btn-light-success i {
+  color: #1BC5BD;
+}
+.btn.btn-light-success .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #1BC5BD;
+}
+.btn.btn-light-success .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-success.dropdown-toggle:after {
+  color: #1BC5BD;
+}
+.btn.btn-light-success:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-success:focus:not(.btn-text), .btn.btn-light-success.focus:not(.btn-text) {
+  color: #ffffff;
+  background-color: #1BC5BD;
+  border-color: transparent;
+}
+.btn.btn-light-success:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-success:focus:not(.btn-text) i, .btn.btn-light-success.focus:not(.btn-text) i {
+  color: #ffffff;
+}
+.btn.btn-light-success:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-success:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-success.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-success:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-success:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-success.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-success:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-success:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-success.focus:not(.btn-text).dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-success.disabled, .btn.btn-light-success:disabled {
+  color: #1BC5BD;
+  background-color: #C9F7F5;
+  border-color: transparent;
+}
+.btn.btn-light-success.disabled i, .btn.btn-light-success:disabled i {
+  color: #1BC5BD;
+}
+.btn.btn-light-success.disabled .svg-icon svg g [fill], .btn.btn-light-success:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #1BC5BD;
+}
+.btn.btn-light-success.disabled .svg-icon svg:hover g [fill], .btn.btn-light-success:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-success.disabled.dropdown-toggle:after, .btn.btn-light-success:disabled.dropdown-toggle:after {
+  color: #1BC5BD;
+}
+.btn.btn-light-success:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-success:not(:disabled):not(.disabled).active, .show > .btn.btn-light-success.dropdown-toggle, .show .btn.btn-light-success.btn-dropdown {
+  color: #ffffff;
+  background-color: #1BC5BD;
+  border-color: transparent;
+}
+.btn.btn-light-success:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-success:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-success.dropdown-toggle i, .show .btn.btn-light-success.btn-dropdown i {
+  color: #ffffff;
+}
+.btn.btn-light-success:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-success:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-success.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-success.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-success:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-success:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-success.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-success.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-success:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-success:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-success.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-success.btn-dropdown.dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-info {
+  color: #8950FC;
+  background-color: #EEE5FF;
+  border-color: transparent;
+}
+.btn.btn-light-info i {
+  color: #8950FC;
+}
+.btn.btn-light-info .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #8950FC;
+}
+.btn.btn-light-info .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-info.dropdown-toggle:after {
+  color: #8950FC;
+}
+.btn.btn-light-info:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-info:focus:not(.btn-text), .btn.btn-light-info.focus:not(.btn-text) {
+  color: #ffffff;
+  background-color: #8950FC;
+  border-color: transparent;
+}
+.btn.btn-light-info:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-info:focus:not(.btn-text) i, .btn.btn-light-info.focus:not(.btn-text) i {
+  color: #ffffff;
+}
+.btn.btn-light-info:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-info:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-info.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-info:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-info:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-info.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-info:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-info:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-info.focus:not(.btn-text).dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-info.disabled, .btn.btn-light-info:disabled {
+  color: #8950FC;
+  background-color: #EEE5FF;
+  border-color: transparent;
+}
+.btn.btn-light-info.disabled i, .btn.btn-light-info:disabled i {
+  color: #8950FC;
+}
+.btn.btn-light-info.disabled .svg-icon svg g [fill], .btn.btn-light-info:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #8950FC;
+}
+.btn.btn-light-info.disabled .svg-icon svg:hover g [fill], .btn.btn-light-info:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-info.disabled.dropdown-toggle:after, .btn.btn-light-info:disabled.dropdown-toggle:after {
+  color: #8950FC;
+}
+.btn.btn-light-info:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-info:not(:disabled):not(.disabled).active, .show > .btn.btn-light-info.dropdown-toggle, .show .btn.btn-light-info.btn-dropdown {
+  color: #ffffff;
+  background-color: #8950FC;
+  border-color: transparent;
+}
+.btn.btn-light-info:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-info:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-info.dropdown-toggle i, .show .btn.btn-light-info.btn-dropdown i {
+  color: #ffffff;
+}
+.btn.btn-light-info:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-info:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-info.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-info.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-info:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-info:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-info.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-info.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-info:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-info:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-info.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-info.btn-dropdown.dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-warning {
+  color: #FFA800;
+  background-color: #FFF4DE;
+  border-color: transparent;
+}
+.btn.btn-light-warning i {
+  color: #FFA800;
+}
+.btn.btn-light-warning .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #FFA800;
+}
+.btn.btn-light-warning .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-warning.dropdown-toggle:after {
+  color: #FFA800;
+}
+.btn.btn-light-warning:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-warning:focus:not(.btn-text), .btn.btn-light-warning.focus:not(.btn-text) {
+  color: #ffffff;
+  background-color: #FFA800;
+  border-color: transparent;
+}
+.btn.btn-light-warning:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-warning:focus:not(.btn-text) i, .btn.btn-light-warning.focus:not(.btn-text) i {
+  color: #ffffff;
+}
+.btn.btn-light-warning:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-warning:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-warning.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-warning:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-warning:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-warning.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-warning:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-warning:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-warning.focus:not(.btn-text).dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-warning.disabled, .btn.btn-light-warning:disabled {
+  color: #FFA800;
+  background-color: #FFF4DE;
+  border-color: transparent;
+}
+.btn.btn-light-warning.disabled i, .btn.btn-light-warning:disabled i {
+  color: #FFA800;
+}
+.btn.btn-light-warning.disabled .svg-icon svg g [fill], .btn.btn-light-warning:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #FFA800;
+}
+.btn.btn-light-warning.disabled .svg-icon svg:hover g [fill], .btn.btn-light-warning:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-warning.disabled.dropdown-toggle:after, .btn.btn-light-warning:disabled.dropdown-toggle:after {
+  color: #FFA800;
+}
+.btn.btn-light-warning:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-warning:not(:disabled):not(.disabled).active, .show > .btn.btn-light-warning.dropdown-toggle, .show .btn.btn-light-warning.btn-dropdown {
+  color: #ffffff;
+  background-color: #FFA800;
+  border-color: transparent;
+}
+.btn.btn-light-warning:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-warning:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-warning.dropdown-toggle i, .show .btn.btn-light-warning.btn-dropdown i {
+  color: #ffffff;
+}
+.btn.btn-light-warning:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-warning:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-warning.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-warning.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-warning:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-warning:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-warning.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-warning.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-warning:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-warning:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-warning.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-warning.btn-dropdown.dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-danger {
+  color: #F64E60;
+  background-color: #FFE2E5;
+  border-color: transparent;
+}
+.btn.btn-light-danger i {
+  color: #F64E60;
+}
+.btn.btn-light-danger .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #F64E60;
+}
+.btn.btn-light-danger .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-danger.dropdown-toggle:after {
+  color: #F64E60;
+}
+.btn.btn-light-danger:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-danger:focus:not(.btn-text), .btn.btn-light-danger.focus:not(.btn-text) {
+  color: #ffffff;
+  background-color: #F64E60;
+  border-color: transparent;
+}
+.btn.btn-light-danger:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-danger:focus:not(.btn-text) i, .btn.btn-light-danger.focus:not(.btn-text) i {
+  color: #ffffff;
+}
+.btn.btn-light-danger:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-danger:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-danger.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-danger:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-danger:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-danger.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-danger:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-danger:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-danger.focus:not(.btn-text).dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-danger.disabled, .btn.btn-light-danger:disabled {
+  color: #F64E60;
+  background-color: #FFE2E5;
+  border-color: transparent;
+}
+.btn.btn-light-danger.disabled i, .btn.btn-light-danger:disabled i {
+  color: #F64E60;
+}
+.btn.btn-light-danger.disabled .svg-icon svg g [fill], .btn.btn-light-danger:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #F64E60;
+}
+.btn.btn-light-danger.disabled .svg-icon svg:hover g [fill], .btn.btn-light-danger:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-danger.disabled.dropdown-toggle:after, .btn.btn-light-danger:disabled.dropdown-toggle:after {
+  color: #F64E60;
+}
+.btn.btn-light-danger:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-danger:not(:disabled):not(.disabled).active, .show > .btn.btn-light-danger.dropdown-toggle, .show .btn.btn-light-danger.btn-dropdown {
+  color: #ffffff;
+  background-color: #F64E60;
+  border-color: transparent;
+}
+.btn.btn-light-danger:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-danger:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-danger.dropdown-toggle i, .show .btn.btn-light-danger.btn-dropdown i {
+  color: #ffffff;
+}
+.btn.btn-light-danger:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-danger:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-danger.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-danger.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-danger:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-danger:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-danger.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-danger.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-danger:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-danger:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-danger.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-danger.btn-dropdown.dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-light {
+  color: #F3F6F9;
+  background-color: #F3F6F9;
+  border-color: transparent;
+}
+.btn.btn-light-light i {
+  color: #F3F6F9;
+}
+.btn.btn-light-light .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #F3F6F9;
+}
+.btn.btn-light-light .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-light.dropdown-toggle:after {
+  color: #F3F6F9;
+}
+.btn.btn-light-light:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-light:focus:not(.btn-text), .btn.btn-light-light.focus:not(.btn-text) {
+  color: #7E8299;
+  background-color: #F3F6F9;
+  border-color: transparent;
+}
+.btn.btn-light-light:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-light:focus:not(.btn-text) i, .btn.btn-light-light.focus:not(.btn-text) i {
+  color: #7E8299;
+}
+.btn.btn-light-light:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-light:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-light.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #7E8299;
+}
+.btn.btn-light-light:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-light:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-light.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-light:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-light:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-light.focus:not(.btn-text).dropdown-toggle:after {
+  color: #7E8299;
+}
+.btn.btn-light-light.disabled, .btn.btn-light-light:disabled {
+  color: #F3F6F9;
+  background-color: #F3F6F9;
+  border-color: transparent;
+}
+.btn.btn-light-light.disabled i, .btn.btn-light-light:disabled i {
+  color: #F3F6F9;
+}
+.btn.btn-light-light.disabled .svg-icon svg g [fill], .btn.btn-light-light:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #F3F6F9;
+}
+.btn.btn-light-light.disabled .svg-icon svg:hover g [fill], .btn.btn-light-light:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-light.disabled.dropdown-toggle:after, .btn.btn-light-light:disabled.dropdown-toggle:after {
+  color: #F3F6F9;
+}
+.btn.btn-light-light:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-light:not(:disabled):not(.disabled).active, .show > .btn.btn-light-light.dropdown-toggle, .show .btn.btn-light-light.btn-dropdown {
+  color: #7E8299;
+  background-color: #F3F6F9;
+  border-color: transparent;
+}
+.btn.btn-light-light:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-light:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-light.dropdown-toggle i, .show .btn.btn-light-light.btn-dropdown i {
+  color: #7E8299;
+}
+.btn.btn-light-light:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-light:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-light.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-light.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #7E8299;
+}
+.btn.btn-light-light:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-light:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-light.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-light.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-light:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-light:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-light.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-light.btn-dropdown.dropdown-toggle:after {
+  color: #7E8299;
+}
+.btn.btn-light-dark {
+  color: #181C32;
+  background-color: #D1D3E0;
+  border-color: transparent;
+}
+.btn.btn-light-dark i {
+  color: #181C32;
+}
+.btn.btn-light-dark .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #181C32;
+}
+.btn.btn-light-dark .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-dark.dropdown-toggle:after {
+  color: #181C32;
+}
+.btn.btn-light-dark:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-light-dark:focus:not(.btn-text), .btn.btn-light-dark.focus:not(.btn-text) {
+  color: #ffffff;
+  background-color: #181C32;
+  border-color: transparent;
+}
+.btn.btn-light-dark:hover:not(.btn-text):not(:disabled):not(.disabled) i, .btn.btn-light-dark:focus:not(.btn-text) i, .btn.btn-light-dark.focus:not(.btn-text) i {
+  color: #ffffff;
+}
+.btn.btn-light-dark:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg g [fill], .btn.btn-light-dark:focus:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-dark.focus:not(.btn-text) .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-dark:hover:not(.btn-text):not(:disabled):not(.disabled) .svg-icon svg:hover g [fill], .btn.btn-light-dark:focus:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-dark.focus:not(.btn-text) .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-dark:hover:not(.btn-text):not(:disabled):not(.disabled).dropdown-toggle:after, .btn.btn-light-dark:focus:not(.btn-text).dropdown-toggle:after, .btn.btn-light-dark.focus:not(.btn-text).dropdown-toggle:after {
+  color: #ffffff;
+}
+.btn.btn-light-dark.disabled, .btn.btn-light-dark:disabled {
+  color: #181C32;
+  background-color: #D1D3E0;
+  border-color: transparent;
+}
+.btn.btn-light-dark.disabled i, .btn.btn-light-dark:disabled i {
+  color: #181C32;
+}
+.btn.btn-light-dark.disabled .svg-icon svg g [fill], .btn.btn-light-dark:disabled .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #181C32;
+}
+.btn.btn-light-dark.disabled .svg-icon svg:hover g [fill], .btn.btn-light-dark:disabled .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-dark.disabled.dropdown-toggle:after, .btn.btn-light-dark:disabled.dropdown-toggle:after {
+  color: #181C32;
+}
+.btn.btn-light-dark:not(:disabled):not(.disabled):active:not(.btn-text), .btn.btn-light-dark:not(:disabled):not(.disabled).active, .show > .btn.btn-light-dark.dropdown-toggle, .show .btn.btn-light-dark.btn-dropdown {
+  color: #ffffff;
+  background-color: #181C32;
+  border-color: transparent;
+}
+.btn.btn-light-dark:not(:disabled):not(.disabled):active:not(.btn-text) i, .btn.btn-light-dark:not(:disabled):not(.disabled).active i, .show > .btn.btn-light-dark.dropdown-toggle i, .show .btn.btn-light-dark.btn-dropdown i {
+  color: #ffffff;
+}
+.btn.btn-light-dark:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg g [fill], .btn.btn-light-dark:not(:disabled):not(.disabled).active .svg-icon svg g [fill], .show > .btn.btn-light-dark.dropdown-toggle .svg-icon svg g [fill], .show .btn.btn-light-dark.btn-dropdown .svg-icon svg g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+  fill: #ffffff;
+}
+.btn.btn-light-dark:not(:disabled):not(.disabled):active:not(.btn-text) .svg-icon svg:hover g [fill], .btn.btn-light-dark:not(:disabled):not(.disabled).active .svg-icon svg:hover g [fill], .show > .btn.btn-light-dark.dropdown-toggle .svg-icon svg:hover g [fill], .show .btn.btn-light-dark.btn-dropdown .svg-icon svg:hover g [fill] {
+  -webkit-transition: fill 0.3s ease;
+  transition: fill 0.3s ease;
+}
+.btn.btn-light-dark:not(:disabled):not(.disabled):active:not(.btn-text).dropdown-toggle:after, .btn.btn-light-dark:not(:disabled):not(.disabled).active.dropdown-toggle:after, .show > .btn.btn-light-dark.dropdown-toggle.dropdown-toggle:after, .show .btn.btn-light-dark.btn-dropdown.dropdown-toggle:after {
+  color: #ffffff;
+}
+.error.error-6 .error-title {
+  font-size: 5rem !important;
+}
+
+@media (min-width: 768px) {
+  .error.error-6 .error-title {
+    font-size: 10rem !important;
+  }
+}
